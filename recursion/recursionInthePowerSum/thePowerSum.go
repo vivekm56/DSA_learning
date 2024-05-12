@@ -21,7 +21,7 @@ func powerSum(X int32, N int32, numb int32) int32 {
 }
 func main() {
 	var X int32 = 100
-	var N int32 = 3
+	var N int32 = 2
 	result := powerSum(X, N, 1)
 	fmt.Println(result)
 }
